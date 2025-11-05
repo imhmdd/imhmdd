@@ -30,10 +30,10 @@
   With a strong enthusiasm for **Mathematics, Statistics, and Computer Science**, I enjoy unlocking the power of data to deliver meaningful insights.  
   
   
-  - 🔭 **Currently working on:** Dashboards & ML-driven insights  
-  - 🌱 **Currently learning:** Deep Learning & Cloud for Data Science  
+  - 🔭 **Currently working on:** Dashboards & Becoming a Junior Data Analyst  
+  - 🌱 **Currently learning:** Excel, SQL, Power BI, and Python 
   - 💼 **Open to:** Data Analysis, Science roles & collaborations  
-  - 📫 **Reach me at:** abdelrahmenelashry@email.com 
+  - 📫 **Reach me at:** muhammadalaa5@email.com 
 
 </div>
 
@@ -45,20 +45,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-### Data Science & ML
+### Data Analysis
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
@@ -79,8 +72,6 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -94,11 +85,11 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmen-Elashry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://streak-stats.demolab.com?user=Abdelrahmen-Elashry&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahmen-Elashry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=imhmdd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://streak-stats.demolab.com?user=imhmdd&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imhmdd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
 </div>
 
-![Snake Animation](https://github.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/blob/output/snake-dark.svg)
+![Snake Animation](https://github.com/imhmdd/imhmdd/blob/output/snake-dark.svg)
 
