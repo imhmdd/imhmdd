@@ -1,30 +1,35 @@
-name: Generate Snake
+name: Generate Snake Game
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch:
+  schedule: # Runs once a day
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual runs
   push:
     branches:
       - main
 
 jobs:
   build:
+    name: Generate snake animation
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Generate GitHub contribution grid snake
-        uses: Platane/snk@v3
         with:
-          github_user_name: IMHMDD
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          fetch-depth: 0
 
-           - name: Push generated files to output branch
+      - name: Generate GitHub contribution snake
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: imhmdd
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=green
+
+      - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
