@@ -91,7 +91,7 @@
 
 </div>
 
-![snake gif](https://github.com/IMHMDD/IMHMDD/blob/output/github-snake-dark.svg)
+
 ![GitHub Snake Light](https://raw.githubusercontent.com/imhmdd/imhmdd/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/imhmdd/imhmdd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
