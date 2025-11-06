@@ -12,11 +12,13 @@
 
 ---
 
-
-<img align="right" height="180" style="margin-top: 120px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo5endudnRhdmpreGlqYTI2bWpsNWpsaWhuN210c295Y3owM3V3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="data gif"/>
-
 ## 🚀 About Me
-
+<div align="left">
+  <div 
+  align="center">
+  <img align="right" height="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlmMmpzbnJjNTdpaDNrNmV3NG9iYTVwZmpha2Y5bTAwNGtiajYzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ridvyKndz8v8IeuJjx/giphy.gif" alt="data gif"/>
+</div>
+  
 I’m a **Data Analyst** transitioning from a background in **Architecture** to the world of **Data, AI, and Machine Learning**.  
 I’ve always been driven by problem-solving, systems thinking, and storytelling — now I do that with **data** instead of design blueprints.
 
@@ -25,6 +27,8 @@ I’ve always been driven by problem-solving, systems thinking, and storytelling
 - 💡 **Goal:** Build data-driven solutions that actually *mean* something  
 - 💬 **Ask me about:** Data cleaning, visualization, insights, or career change  
 - 📫 **Reach me at:** muhammadalaa5@email.com  
+
+</div>
 
 ---
 
