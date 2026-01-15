@@ -23,7 +23,7 @@ I’m a **Data Analyst** transitioning from a background in **Architecture** to 
 I’ve always been driven by problem-solving, systems thinking, and storytelling — now I do that with **data** instead of design blueprints.
 
 - 🔭 **Currently working on:** Analytical dashboards & data storytelling  
-- 🌱 **Learning:** SQL · Python · Power BI · Machine Learning Fundamentals  
+- 🌱 **Learning:** Excel . SQL · Python · Power BI · Machine Learning Fundamentals  
 - 💡 **Goal:** Build data-driven solutions that actually *mean* something  
 - 💬 **Ask me about:** Data cleaning, visualization, insights, or career change  
 - 📫 **Reach me at:** muhammadalaa5@email.com  
