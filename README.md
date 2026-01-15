@@ -77,14 +77,6 @@ I’ve always been driven by problem-solving, systems thinking, and storytelling
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imhmdd&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imhmdd&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
----
 
 ## 🌐 Connect with Me
 - 🔗 [LinkedIn](https://linkedin.com/in/imhmdd)  
